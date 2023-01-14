@@ -1,1 +1,2 @@
 # FUN-APP
+This is a funny web application having jokes, memes and quotes. It is a full stack web application project developed using technologies like HTML, CSS, Bootstrap, JavaScript in the frontend and NodeJS and ExpressJS in the backend. Beyond all these technologies, it also uses three Application Programming Interfaces(API'S). It fetches Jokes from Joke API, Memes from Meme API and Quotes from quotable.io API.
